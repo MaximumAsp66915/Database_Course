@@ -8,7 +8,7 @@ This repository serves two purposes, each on its own branch:
 
 | Branch | Purpose |
 | --- | --- |
-| [`main`](../../tree/main) | The **group project**: specifications, design documents and implementation. |
+| [`project`](../../tree/project) | The **group project**: specifications, design documents and implementation. |
 | [`homeworks`](../../tree/homeworks) | A personal archive of the **homework submissions** (final PDFs and screenshots only). |
 
 ## The project
@@ -41,8 +41,8 @@ example `project/phase-1/`.
 git clone https://github.com/MaximumAsp66915/Database_Course.git
 cd Database_Course
 
-# project work happens on main
-git switch main
+# project work happens on the project branch
+git switch project
 
 # homework archive
 git switch homeworks
@@ -52,7 +52,7 @@ git switch homeworks
 
 - Only **final deliverables** are committed: PDFs and screenshots/images.
   LaTeX sources and build files (`*.tex`, `*.aux`, `*.log`, …) are ignored.
-- The `homeworks` branch is independent of `main` and shares no history with it.
+- The `homeworks` branch is independent of `project` and shares no history with it.
 - Releases are disabled for this repository.
 
 ## License
