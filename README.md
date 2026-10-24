@@ -4,7 +4,7 @@ Archive of my homework submissions for the **Database Design** course
 (course no. 40384) at the **Sharif University of Technology**, first semester
 of 1405–06 (Fall 2026).
 
-> This branch is independent of [`main`](../../tree/main), which holds the
+> This branch is independent of [`project`](../../tree/project), which holds the
 > group project.
 
 Only the **final, submitted deliverables** are kept here, as **PDFs** or
