@@ -17,6 +17,7 @@ part of the repository.
 | --- | --- | --- |
 | [HW1](HW1) | Database systems vs. file systems, redundancy, data models, ACID, storage and RAID, system architectures | `DB-HW1-answers.pdf` (Persian), `DB-HW1-answers-EN.pdf` (English) |
 | [HW2](HW2) | Entity–Relationship and Extended ER modeling: weak entities, attributes, cardinality and participation, specialization / generalization | `DB-HW2-Q5-7.pdf` (graded questions 5 and 7), `DB-HW2-other-questions.pdf` (remaining questions), `hand-writen/diagrams/` (screenshots of the hand-drawn Q7 diagrams) |
+| [HW3](HW3) | Logical design: converting ER/EER diagrams to tables (keys, foreign keys, IS-A, weak entities, aggregation, recursive and ternary relationships), surrogate keys, fan and chasm traps | `DB-HW3-Q6.pdf` (graded question 6), `DB-HW3-other-questions.pdf` (remaining questions) |
 
 The original assignment sheets are kept next to each solution in the
 `preprovided/` folders.
@@ -33,6 +34,10 @@ HW2/
 ├── DB-HW2-other-questions.pdf
 ├── hand-writen/diagrams/      Q7-p1.png, Q7-p2.png
 └── preprovided/db-hw2-4051.pdf
+HW3/
+├── DB-HW3-Q6.pdf
+├── DB-HW3-other-questions.pdf
+└── preprovided/db-hw3-4051.pdf
 ```
 
 ## Notice
