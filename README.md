@@ -27,13 +27,16 @@ and semantic model design.
 
 ```
 project/
-└── preprovided/          Documents handed out by the instructors
-    ├── DB-Project-Roadmap.pdf   Overall roadmap of the four phases
-    └── DB-Project-Phase-I.pdf   Phase I specification
+└── Phase 1/                     Phase I deliverables
+    ├── preprovided/
+    │   └── DB-Project-Phase-I.pdf   Phase I specification (handed out)
+    ├── ER-EER-diagrams.pdf      ER/EER diagrams (readable output)
+    ├── Phase1-Report.pdf        Short report: components, rules, decisions, sample situations
+    └── drawio/                  Editable diagrams (draw.io): one file per diagram plus a combined file
 ```
 
 New deliverables for each phase should be added under `project/`, for
-example `project/phase-1/`.
+example `project/Phase 1/`.
 
 ## Working with the repository
 
